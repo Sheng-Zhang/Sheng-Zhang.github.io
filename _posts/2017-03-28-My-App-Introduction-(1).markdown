@@ -11,7 +11,7 @@ categories: jekyll update
 
 App Store: [終極密碼][App-Store] 
 
-![My helpful screenshot]({{ site.url }}/assets/bullsAndCowsGame.jpg.jpg)
+![My helpful screenshot]({{ site.url }}/assets/bullsAndCowsGame.jpg)
 
 [App-Store]: https://itunes.apple.com/tw/app/%E7%B5%82%E6%A5%B5%E5%AF%86%E7%A2%BC/id1137017776?l=zh&mt=8
 
