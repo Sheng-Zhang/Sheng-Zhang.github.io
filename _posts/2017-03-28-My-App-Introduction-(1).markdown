@@ -5,9 +5,11 @@ date:   2017-03-28 09:39:52 +0000
 categories: jekyll update
 ---
 
+即時回答的Siri電子語音主持人，綜藝節目般經典的終極密碼遊戲。
 
-Check out the [終極密碼][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
+玩法：0到100數字任選，用右下角的綠色鍵送出，紅色鍵可消除輸入的數字，結束後按紅色的"X"鍵再玩一次。
 
-[jekyll-docs]: https://itunes.apple.com/tw/app/%E7%B5%82%E6%A5%B5%E5%AF%86%E7%A2%BC/id1137017776?l=zh&mt=8
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+App Store: [終極密碼][App-Store] 
+
+[App-Store]: https://itunes.apple.com/tw/app/%E7%B5%82%E6%A5%B5%E5%AF%86%E7%A2%BC/id1137017776?l=zh&mt=8
+
