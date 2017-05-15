@@ -6,8 +6,6 @@ categories: jekyll update
 ---
 ![OffsetArrangementChicken]({{ site.url }}/assets/OffsetArrangementChicken.png)
 
-App Store: [終極密碼][App-Store]
-
 主要功能:
 
 - 交丁貼
