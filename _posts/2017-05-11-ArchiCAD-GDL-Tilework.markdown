@@ -4,7 +4,7 @@ title:  "ArchiCAD GDL Object (1) - 磁磚計畫Tilework"
 date:   2017-05-11 09:39:52 +0000
 categories: jekyll update
 ---
-![bullsAndCowsGame]({{ site.url }}/assets/OffsetArrangementChicken.png)
+![OffsetArrangementChicken]({{ site.url }}/assets/OffsetArrangementChicken.png)
 
 App Store: [終極密碼][App-Store]
 
