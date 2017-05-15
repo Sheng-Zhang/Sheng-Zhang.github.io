@@ -15,7 +15,7 @@ App Store: [終極密碼][App-Store]
 - 數量計算(磁磚面積、磨角磚各種類數量)
 - 面積檢核
 
-<教學影片>
+教學影片:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/a62BRSsKTxs" frameborder="0" allowfullscreen></iframe>
 
