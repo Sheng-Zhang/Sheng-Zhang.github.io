@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "ArchiCAD GDL Object (1) - 磁磚計畫Tilework"
+title:  "ArchiCAD GDL Object (1) - 磁磚計畫 Tilework"
 date:   2017-05-11 09:39:52 +0000
 categories: jekyll update
 ---
