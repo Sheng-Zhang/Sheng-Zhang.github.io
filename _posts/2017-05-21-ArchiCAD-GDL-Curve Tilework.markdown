@@ -15,7 +15,7 @@ categories: jekyll update
 
 教學影片:
 
-<iframe width="560" height="315" src="https://youtu.be/Zj1YrXJtpc8" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Zj1YrXJtpc8" frameborder="0" allowfullscreen></iframe>
 
 
 
