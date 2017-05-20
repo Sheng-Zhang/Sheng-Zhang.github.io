@@ -4,7 +4,6 @@ title:  "ArchiCAD GDL Object (2) - 弧形磁磚計畫 Curve Tilework"
 date:   2017-05-11 09:39:52 +0000
 categories: jekyll update
 ---
-![OffsetArrangementChicken]({{ site.url }}/assets/OffsetArrangementChicken.png)
 
 主要功能:
 
