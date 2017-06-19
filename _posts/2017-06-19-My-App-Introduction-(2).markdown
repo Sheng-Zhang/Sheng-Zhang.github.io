@@ -1,10 +1,10 @@
 ---
 layout: post
 title:  "My App Introduction (2) - 帶路雞"
-date:   2017-03-28 09:39:52 +0000
+date:   2017-06-19 09:39:52 +0000
 categories: jekyll update
 ---
-![bullsAndCowsGame]({{ site.url }}/assets/bullsAndCowsGame.jpg)
+![bullsAndCowsGame]({{ site.url }}/assets/LeadingChickenProGold.png)
 
 
 
