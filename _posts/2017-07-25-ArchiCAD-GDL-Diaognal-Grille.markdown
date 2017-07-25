@@ -8,7 +8,7 @@ categories: jekyll update
 
 示範影片：
 <iframe width="560" height="315" src="https://www.youtube.com/embed/GpmA6hq6i4M" frameborder="0" allowfullscreen></iframe>
-交叉格柵：
+
 
 
 
