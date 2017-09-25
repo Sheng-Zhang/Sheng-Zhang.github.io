@@ -12,7 +12,7 @@ categories: jekyll update
 # 使用方法:  
 > 可搭配物件"2D磨角磁磚輔助線"，設定磁磚及打底的厚度，再把柱磁磚計畫的熱點拉到定位，會依據總寬度去自動決定中間磁磚的尺寸及數量。
 
-![自動排列](/assets/ColumnTilework/ColumnTileworkAutoArrangement.jpg)
+![自動排列](/assets/ColumnTilework/ColumnTileWork/ColumnTileworkAutoArrangement.jpg)
 
 
 
