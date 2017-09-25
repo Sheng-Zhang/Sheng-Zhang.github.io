@@ -16,6 +16,9 @@ categories: jekyll update
 # 依寬度自動排列磁磚:
 ![自動排列](/assets/ColumnTileWork/ColumnTileworkAutoArrangement.jpg)
 
+# 數量計算:
+![數量計算](/assets/ColumnTileWork/NumberOfTile.jpg)
+
 # 2D磨角輔助熱點:
 ![2D磨角輔助熱點](/assets/ColumnTileWork/ColumnTileworkWithAuxiliaryChamferingHotspot.jpg)
 
