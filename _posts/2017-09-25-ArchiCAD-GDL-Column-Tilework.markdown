@@ -16,14 +16,14 @@ categories: jekyll update
 # 依寬度自動排列磁磚:
 ![自動排列](/assets/ColumnTileWork/ColumnTileworkAutoArrangement.jpg)
 
-# 搭配2D磨角輔助線物件:
+# 2D磨角輔助熱點:
 ![2D磨角輔助熱點](/assets/ColumnTileWork/ColumnTileworkWithAuxiliaryChamferingHotspot.jpg)
 
 # 重疊洞警示:
 ![重疊洞警示](/assets/ColumnTileWork/ColumnTileworkHoleOverlappingHint.jpg)
 
 # 新舊磁磚物件製作比較圖:
-> 左邊是通用的磁磚物件，右邊是柱磁磚計畫。左邊完成時間約2分半，右邊使用柱磁磚計畫只要16秒。
+> 左邊是通用的磁磚物件，右邊是柱磁磚計畫搭配2D磨角輔助線物件。左邊完成時間約2分半，右邊使用柱磁磚計畫只要16秒。
 ![新舊磁磚比較](/assets/ColumnTileWork/ColumnTileworkComparison.jpg)
 
 
