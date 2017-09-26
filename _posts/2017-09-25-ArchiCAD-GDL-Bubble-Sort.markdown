@@ -1,14 +1,15 @@
 ---
 layout: post
 title:  "ArchiCAD GDL Algorithm (1) - 泡沫排序法 Bubble Sort"
-date:   2017-09-25 13:50:52 +0000
+date:   2017-09-26 15:28:52 +0000
 categories: jekyll update
 ---
 
-![柱磁磚計畫物件說明](/assets/Algorithm/Bubble Sort/Bubble Sort.jpg)
+![泡沫排序法](/assets/Algorithm/Bubble Sort/Bubble Sort.jpg)
 
 # 物件描述:  
-> 物件使用在柱子使用兩邊整磚，中間切磚的排磚法。相比之前的排磚方法，各種又磨又切的尺寸，數量難以計算，這種排磚法可以讓數量計算單純化，磨角的尺寸只剩下一種整磚，切磚的尺寸也只有一種，在數量變單純的同時也兼顧了美觀。
+> 物件使用在柱子使用兩邊整磚，中間切磚的排磚法。相比之前的排磚方法，各種又磨又切的尺寸，數量難以計算，這種排磚法可以讓數量計算單純化，磨角的尺寸只剩下一種整磚，切磚的尺寸也只有一種，在數量變單純的同時也兼顧了美觀。  
+
 <code>
 DIM array[6]
 array[1]=6
