@@ -12,6 +12,7 @@ categories: jekyll update
 
 <pre>
 <code>
+! Create and initialize an array.
 DIM array[6]
 array[1]=6
 array[2]=5
@@ -20,16 +21,19 @@ array[4]=3
 array[5]=2
 array[6]=1
 
-
+! Before using bubble sort, print the array.
 x = 0
 y = 0
 gosub "PrintArray":
+
 gosub "BubbleSort":
 
+! After using bubble sort, print the array.
 x = 0
 y = -90/100
 gosub "PrintArray":
 
+! Subroutines
 if 0 then
 "PrintArray":
 	for i=1 to vardim1(array) 
@@ -37,6 +41,7 @@ if 0 then
 		x = x + 55/100
 	next i
 return
+
 "BubbleSort":	
 	for i=1 to vardim1(array) - 1
 		for j=1 to vardim1(array) - i
@@ -50,6 +55,7 @@ return
 return
 
 endif
+
 
 </code>
 </pre>
