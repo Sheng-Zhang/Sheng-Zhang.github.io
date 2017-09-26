@@ -50,7 +50,7 @@ return
 
 endif
 
-<code/>
+</code>
 
 
 # 依寬度自動排列磁磚:
