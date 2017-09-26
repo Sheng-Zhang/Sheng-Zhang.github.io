@@ -4,7 +4,7 @@ title:  "ArchiCAD GDL Algorithm (1) - 泡沫排序法 Bubble Sort"
 date:   2017-09-26 15:28:52 +0000
 categories: jekyll update
 ---
-
+By leafleafflower
 ![泡沫排序法](/assets/Algorithm/Bubble Sort/Bubble Sort.jpg)
 
 # 樣板:    
