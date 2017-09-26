@@ -7,9 +7,7 @@ categories: jekyll update
 
 ![泡沫排序法](/assets/Algorithm/Bubble Sort/Bubble Sort.jpg)
 
-# 物件描述:  
-> 物件使用在柱子使用兩邊整磚，中間切磚的排磚法。相比之前的排磚方法，各種又磨又切的尺寸，數量難以計算，這種排磚法可以讓數量計算單純化，磨角的尺寸只剩下一種整磚，切磚的尺寸也只有一種，在數量變單純的同時也兼顧了美觀。  
-
+# 樣板:    
 <pre>
 <code>
 ! Create and initialize an array.
@@ -60,8 +58,7 @@ endif
 </code>
 </pre>
 
-# 依寬度自動排列磁磚:
-![自動排列](/assets/ColumnTileWork/ColumnTileworkAutoArrangement.jpg)
+
 
 
 
