@@ -87,7 +87,7 @@ incorporating responsive techniques, you can create a
 seamless user experience regardless of a device's screen  
 size.  
 
-<Media Queries>  
+# Media Queries  
 
 Definition:  
 When a website responds to the size of the  
