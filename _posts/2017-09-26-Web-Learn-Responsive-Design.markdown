@@ -10,7 +10,7 @@ By leafleafflower
 
     
 # Relative Mesurements
-Definition:  
+## Definition:  
 Content on a website can be sized relative to  
 other elements on the page using relative mesurements.  
 -------------------------------------------------------  
@@ -46,7 +46,7 @@ Percentages can be used to set padding and margin.
 Horizontal and vertical padding and margin are set relative  
 to the width of a parent element.  
 
------------------------------------------------------------  
+------------------------------------------------------------  
 
 (Width and Height - max and min)  
 min-width  
@@ -89,12 +89,12 @@ size.
 
 # Media Queries  
 
-Definition:  
+## Definition:  
 When a website responds to the size of the  
 screen it's viewed on, it's called a responsive  
 design.  
 
-Use:  
+## Use:  
 You can write media queries to help with  
 different screen sizes.  
 -------------------------------------------------  
