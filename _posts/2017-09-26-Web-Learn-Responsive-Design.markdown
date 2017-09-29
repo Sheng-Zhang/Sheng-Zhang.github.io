@@ -9,11 +9,11 @@ By leafleafflower
 ![泡沫排序法](/assets/Algorithm/Bubble Sort/Bubble Sort.jpg)
 
 # 樣板:    
-<Relative Mesurements>
-Definition:
-Content on a website can be sized relative to 
-other elements on the page using relative mesurements.
--------------------------------------------------------
+# Relative Mesurements
+Definition:  
+Content on a website can be sized relative to  
+other elements on the page using relative mesurements.  
+-------------------------------------------------------  
 
 (unit)
 em:  relative to the font size of a parent element
