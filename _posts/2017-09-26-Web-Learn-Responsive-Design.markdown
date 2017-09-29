@@ -6,11 +6,11 @@ categories: jekyll update
 ---
 By leafleafflower  
 
-![泡沫排序法](https://www.injerry.com/upload/blog/PIC_17540deb1ab2a0646966.jpg)
+![RWD](https://www.injerry.com/upload/blog/PIC_17540deb1ab2a0646966.jpg)
 
     
-# Relative Mesurements
-## Definition:  
+## Relative Mesurements
+# Definition:  
 Content on a website can be sized relative to  
 other elements on the page using relative mesurements.  
 -------------------------------------------------------  
@@ -87,14 +87,14 @@ incorporating responsive techniques, you can create a
 seamless user experience regardless of a device's screen  
 size.  
 
-# Media Queries  
+## Media Queries  
 
-## Definition:  
+# Definition:  
 When a website responds to the size of the  
 screen it's viewed on, it's called a responsive  
 design.  
 
-## Use:  
+# Use:  
 You can write media queries to help with  
 different screen sizes.  
 -------------------------------------------------  
