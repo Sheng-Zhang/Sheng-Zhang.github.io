@@ -6,9 +6,9 @@ categories: jekyll update
 ---
 By leafleafflower  
 
-![泡沫排序法](/assets/Algorithm/Bubble Sort/Bubble Sort.jpg)
+![泡沫排序法](https://www.injerry.com/upload/blog/PIC_17540deb1ab2a0646966.jpg)
 
-# 樣板:    
+    
 # Relative Mesurements
 Definition:  
 Content on a website can be sized relative to  
