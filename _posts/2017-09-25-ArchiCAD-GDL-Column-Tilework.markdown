@@ -6,7 +6,7 @@ categories: jekyll update
 ---
 
 ![柱磁磚計畫物件說明](/assets/ColumnTileWork/ColumnTilework.png)
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nlSemscm6OI" frameborder="0" allowfullscreen></iframe>
 # 物件描述:  
 > 物件使用在柱子使用兩邊整磚，中間切磚的排磚法。相比之前的排磚方法，各種又磨又切的尺寸，數量難以計算，這種排磚法可以讓數量計算單純化，磨角的尺寸只剩下一種整磚，切磚的尺寸也只有一種，在數量變單純的同時也兼顧了美觀。
 
