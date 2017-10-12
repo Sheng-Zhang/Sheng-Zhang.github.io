@@ -6,12 +6,14 @@ categories: jekyll update
 ---
 By leafleafflower  
 
-![RWD](https://www.injerry.com/upload/blog/PIC_17540deb1ab2a0646966.jpg)
+![parametric design](https://i.pinimg.com/736x/c5/1e/9f/c51e9f507041695cd111656f5b296d7d--parametric-architecture-parametric-design.jpg)
 
     
 
 # 定義:
 > 通過相關數字化設計軟件，把設計的限制條件與設計的形式輸出之間建立參數關係，生成可以靈活調控的電腦模型。
+
+
 
 
 
