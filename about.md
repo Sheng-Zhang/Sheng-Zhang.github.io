@@ -3,7 +3,7 @@ layout: page
 title: About
 permalink: /about/
 ---
-<img src="../assets/ShengZhang.jpg" width="200" height="200">
+<img src="../assets/ShengZhang.jpg" width="200" height="200" style="border-radius:100%;">
 
 I have two YouTube channel to place my app and GDL Object videos:  
 [iOS App Channel](https://www.youtube.com/channel/UCo8c0A2cIGrkhNa1sghe9Xw)  
