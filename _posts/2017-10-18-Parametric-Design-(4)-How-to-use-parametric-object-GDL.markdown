@@ -7,7 +7,11 @@ categories: jekyll update
 By leafleafflower  
 
 ![parametric design](/assets/ArchiCAD/ChickenBall.jpg)
- 
+
+# 從網路上購買或下載堪用的物件
+別人寫的物件，不可能完全符合每個使用者的需求。看是要抓下來改還是將就用，
+在販售的通常都有加密，購買也有使用期限。這個方法適合錢很多跟時間很多的使  
+用者。  
 
 # 製作 GDL 物件 - 用畫的再轉存成 GDL 物件
 用內建物件畫完，再另存為物件。畫完長怎樣存起來就是長怎樣不能改，適合不會  
