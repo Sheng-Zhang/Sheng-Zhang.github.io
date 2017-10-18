@@ -6,7 +6,7 @@ categories: jekyll update
 ---
 By leafleafflower  
 
-![parametric design](/assets/ArchiCAD/ParkingLot)
+![parametric design](/assets/ArchiCAD/ParkingLot.jpg)
  
 
 # BIM建模：
