@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "參數化建模(1) - 什麼是參數化設計？ "
-date:   2017-09-29 22:01:52 +0000
+date:   2017-10-12 22:01:52 +0000
 categories: jekyll update
 ---
 By leafleafflower  
