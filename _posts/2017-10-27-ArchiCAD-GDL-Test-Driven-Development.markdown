@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "【ARCHICAD 動畫製作】用GDL讓車輪轉起來！"
+title:  "【ARCHICAD GDL】GDL的測試驅動開發"
 date:   2017-10-25 22:01:52 +0000
 categories: jekyll update
 ---
