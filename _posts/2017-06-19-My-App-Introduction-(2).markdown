@@ -28,7 +28,10 @@ categories: jekyll update
 [下載App][帶路雞Pro-App-Store]
 
 示範影片：
-<iframe width="560" height="315" src="https://www.youtube.com/embed/chc1-Qk3nRY" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/chc1-Qk3nRY" frameborder="0" allowfullscreen></iframe>  
+
+帶路雞在PTT的GetMarry版：
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZemMXMyyal4" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
 
 帶路雞App：
 免費，內含一公一母兩隻雞的基本組合。
