@@ -1,0 +1,18 @@
+---
+layout: post
+title:  "【ARCHICAD GDL】 裝置藝術-新阿姆斯特朗炫風噴射阿姆斯特朗砲"
+date:   2017-12-16 22:01:52 +0000
+categories: jekyll update
+---
+By leafleafflower  
+![新阿姆斯特朗炫風噴射阿姆斯特朗砲Cover](/assets/ArchiCAD/新阿姆斯特朗炫風噴射阿姆斯特朗砲Cover.png)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2mD3280jf0I" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
+
+
+
+
+-------------------------------------------------------  
+
+[帶路雞Pro-App-Store]: https://appsto.re/tw/kp-Sfb.i
+[帶路雞-App-Store]: https://appsto.re/tw/amD6eb.i
+
