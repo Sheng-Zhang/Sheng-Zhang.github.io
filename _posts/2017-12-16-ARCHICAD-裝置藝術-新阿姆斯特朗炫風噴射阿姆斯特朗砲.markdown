@@ -6,7 +6,9 @@ categories: jekyll update
 ---
 By leafleafflower  
 ![新阿姆斯特朗炫風噴射阿姆斯特朗砲Cover](/assets/ArchiCAD/新阿姆斯特朗炫風噴射阿姆斯特朗砲Cover.png)
+使用ARCHICAD 19 GDL實作銀魂中的新阿姆斯特朗炫風噴射阿姆斯特朗砲<br>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/2mD3280jf0I" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
+
 
 
 
