@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "【ARCHICAD GDL】 裝置藝術 - 新阿姆斯特朗炫風噴射阿姆斯特朗砲"
+title:  "【ARCHICAD GDL】裝置藝術 - 新阿姆斯特朗炫風噴射阿姆斯特朗砲"
 date:   2017-12-16 22:01:52 +0000
 categories: jekyll update
 ---
