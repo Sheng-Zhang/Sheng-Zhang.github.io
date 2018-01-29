@@ -5,8 +5,10 @@ date:   2017-12-20 11:45:52 +0000
 categories: jekyll update
 ---
 By leafleafflower  
-![新阿姆斯特朗炫風噴射阿姆斯特朗砲Cover](/assets/AmblyopiaTraining/DrawingView.png)
+
 [Download Amblyopia Training][Amblyopia-Training-App-Store]
+
+![新阿姆斯特朗炫風噴射阿姆斯特朗砲Cover](/assets/AmblyopiaTraining/DrawingView.png)
 
 
 
