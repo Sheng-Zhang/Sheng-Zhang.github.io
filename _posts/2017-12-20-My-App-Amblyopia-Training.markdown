@@ -8,6 +8,11 @@ By leafleafflower
 
 [Download Amblyopia Training][Amblyopia-Training-App-Store]
 
+Amblyopia Training is an app you can use to train your lazy eye by draw the coloring on a rotating grating circle.
+
+Compatibility
+Requires iOS 10.0 or later. Compatible with iPhone, iPad and iPod touch.
+
 ![新阿姆斯特朗炫風噴射阿姆斯特朗砲Cover](/assets/AmblyopiaTraining/DrawingView.png)
 
 
