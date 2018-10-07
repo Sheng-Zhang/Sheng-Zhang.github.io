@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "[iOS]萬用計分板支援頁面"
+title:  "[iOS] 萬用計分板支援頁面"
 date:   2018-10-07 09:02:52 +0000
 categories: jekyll update
 ---
@@ -9,8 +9,10 @@ By leafleafflower
 如有使用上的問題，請寄信至
 email: leafleafflower@gmail.com
 
-![icon](/assets/Scoreboard/icon.png)
+![icon](/assets/Scoreboard/icon.png =100x100)
+
 ![view](/assets/Scoreboard/scoreboard.png)
+
 隨手可得的計分板。
 
 
