@@ -9,7 +9,7 @@ By leafleafflower
 如有使用上的問題，請寄信至
 email: leafleafflower@gmail.com
 
-<img src="assets/Scoreboard/icon.png" width="100" height="100">
+<img src="/assets/Scoreboard/icon.png" width="100" height="100">
 
 ![view](/assets/Scoreboard/scoreboard.png)
 
