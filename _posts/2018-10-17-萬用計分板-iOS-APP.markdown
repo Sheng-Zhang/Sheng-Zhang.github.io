@@ -1,0 +1,22 @@
+---
+layout: post
+title:  "[iOS]萬用計分板支援頁面"
+date:   2018-10-07 09:02:52 +0000
+categories: jekyll update
+---
+By leafleafflower  
+
+如有使用上的問題，請寄信至
+email: leafleafflower@gmail.com
+
+![icon](/assets/Scoreboard/icon.png)
+![view](/assets/Scoreboard/scoreboard.png)
+隨手可得的計分板。
+
+
+
+-------------------------------------------------------  
+[Amblyopia-Training-App-Store]: https://itunes.apple.com/au/app/amblyopia-training/id1320619131?mt=8&ign-mpt=uo%3D2
+[帶路雞Pro-App-Store]: https://appsto.re/tw/kp-Sfb.i
+[帶路雞-App-Store]: https://appsto.re/tw/amD6eb.i
+
