@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "[iOS] 萬用計分板支援頁面"
+title:  "[iOS] 惡搞圖片驗證支援頁面"
 date:   2019-01-08 09:02:52 +0000
 categories: jekyll update
 ---
