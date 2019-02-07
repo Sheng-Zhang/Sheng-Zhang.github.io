@@ -4,7 +4,7 @@ title:  "[iOS] 炒熱氣氛必備良品 - 終極密碼"
 date:   2017-03-28 09:39:52 +0000
 categories: jekyll update
 ---
-<img src="/assets/bullsAndCowsGame.jpg" width="200" height="200" style="border-radius:100%">
+<img src="/assets/bullsAndCowsGame.jpg" width="200" height="200" style="border-radius:22.5%">
 
 App Store: [終極密碼][App-Store]
 
