@@ -9,24 +9,11 @@
 title: Sheng - Zhang Lin's Homepage
 email: leafleafflower@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  @ iOS Developer</br>
-  @ Web Developer</br>
-  Working History:</br>
-  Chyiyuh Construction</br>
-  ・ BIM Coordinator at 興富發BIM小組</br>
-  台灣林夕網路有限公司(現名：愛盛娛樂)</br>
-  ・iOS 高級工程師</br>
-  仲琦科技股份有限公司</br>
-  ・資深工程師</br>
+  <a href="https://docs.google.com/document/d/173TM5dFUto2einRPdmwwAhWJAGpy2prtKXd705HSWZE/edit?usp=sharing">Resume</a></br>
   
-  </br>
-  I'm Sheng-Zhang Lin, an iOS and BIM developer. I make
-  some building tools to help my colleague build the model 
-  more efficiently like tile tool, stair tool and ditch tool. 
-  I published 11 apps to the app store.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://sheng-zhang.github.io" # the base hostname & protocol for your site
-twitter_username: leafleafflower
+twitter_username: ShengZhangLin
 github_username:  Sheng-Zhang
 
 # Build settings
