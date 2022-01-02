@@ -9,7 +9,6 @@
 title: Sheng - Zhang Lin's Homepage
 email: leafleafflower@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  <a href="https://docs.google.com/document/d/173TM5dFUto2einRPdmwwAhWJAGpy2prtKXd705HSWZE/edit?usp=sharing">Sheng-Zhang Lin's Resume</a></br>
   
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://sheng-zhang.github.io" # the base hostname & protocol for your site
