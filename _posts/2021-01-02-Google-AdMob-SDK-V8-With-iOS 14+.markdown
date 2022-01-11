@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Google-AdMob-SDK-V8-With-iOS 14+"
+title:  "Google AdMob SDK V8 With iOS 14+"
 date:   2021-01-02 09:02:52 +0000
 categories: jekyll update
 ---
